@@ -1,0 +1,14 @@
+{
+  "version": "6.2.1",
+  "build_date": "2026-10-17",
+  "app_name": "Studio Master AI",
+  "title": "Bản cập nhật v6.2.1 — Khắc phục API Ahiep & Giao diện Test",
+  "changelog": [
+    "Khắc phục lỗi nạp cấu hình API Ahiep khi chạy bản đóng gói .exe",
+    "Sửa lỗi treo giao diện khi bấm nút Kiểm Tra Kết Nối API",
+    "Tối ưu hóa cơ chế dịch phụ đề tự động"
+  ],
+  "download_url": "https://raw.githubusercontent.com/thienhanhmedia7/toolcao-release/main/stock_preview_v6.exe",
+  "update_type": "hotfix",
+  "min_version": "5.0.0"
+}

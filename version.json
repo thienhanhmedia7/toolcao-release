@@ -1,10 +1,10 @@
 {
-  "version": "6.2.6",
+  "version": "6.2.7",
   "build_date": "2026-10-23",
   "app_name": "Studio Master AI",
-  "title": "Bản cập nhật v6.2.6 — sửa lỗi 403",
+  "title": "Bản cập nhật v6.2.7 — Tối ưu tốc độ Mode Ghép Nối Offline, nâng cấp Whisper large-v3-turbo và sửa lỗi hệ thống",
   "changelog": [
-    "sửa lỗi 403"
+    "Tối ưu tốc độ Mode Ghép Nối Offline, nâng cấp Whisper large-v3-turbo và sửa lỗi hệ thống"
   ],
   "download_url": "https://raw.githubusercontent.com/thienhanhmedia7/toolcao-release/main/stock_preview_v6.exe",
   "update_type": "hotfix",

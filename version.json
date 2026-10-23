@@ -1,10 +1,10 @@
 {
-  "version": "6.2.4",
+  "version": "6.2.6",
   "build_date": "2026-10-23",
   "app_name": "Studio Master AI",
-  "title": "Bản cập nhật v6.2.4 — Nâng cấp chất lượng video",
+  "title": "Bản cập nhật v6.2.6 — sửa lỗi 403",
   "changelog": [
-    "Nâng cấp chất lượng video"
+    "sửa lỗi 403"
   ],
   "download_url": "https://raw.githubusercontent.com/thienhanhmedia7/toolcao-release/main/stock_preview_v6.exe",
   "update_type": "hotfix",

@@ -1,10 +1,12 @@
 {
-  "version": "﻿6.2.14",
+  "version": "6.2.14",
   "build_date": "2026-10-25",
   "app_name": "Studio Master AI",
-  "title": "Bản cập nhật v﻿6.2.14 — Kh?c ph?c ho?n to?n l?i Whisper runtime v? t?i ?u giao di?n",
+  "title": "Bản cập nhật v6.2.14 — Khắc phục hoàn toàn lỗi Whisper runtime và tối ưu giao diện",
   "changelog": [
-    "Kh?c ph?c ho?n to?n l?i Whisper runtime v? t?i ?u giao di?n"
+    "Khắc phục hoàn toàn lỗi Whisper runtime độc lập (phục hồi đầy đủ C-extensions numpy/ctranslate2)",
+    "Thêm cơ chế bảo vệ loại trừ vĩnh viễn whisper_runtime và whisper_helper khi dọn dẹp môi trường",
+    "Tối ưu giao diện cài đặt đồng bộ chuẩn CapCut"
   ],
   "download_url": "https://raw.githubusercontent.com/thienhanhmedia7/toolcao-release/main/stock_preview_v6.exe",
   "update_type": "hotfix",

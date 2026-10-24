@@ -1,10 +1,12 @@
 {
-  "version": "6.2.10",
+  "version": "6.2.11",
   "build_date": "2026-10-24",
   "app_name": "Studio Master AI",
-  "title": "Bản cập nhật v6.2.10 — Tối ưu tốc độ Mode Ghép Nối Offline, nâng cấp Whisper large-v3-turbo và sửa lỗi hệ thống",
+  "title": "Bản cập nhật v6.2.11 — Tự động nâng cấp thư viện hệ thống Python 3.14, tối ưu CJK fallback và sửa lỗi xuất CapCut Draft",
   "changelog": [
-    "Tối ưu tốc độ Mode Ghép Nối Offline, nâng cấp Whisper large-v3-turbo và sửa lỗi hệ thống"
+    "Tự động giải nén và nâng cấp thư viện hệ thống Python 3.14 ngay khi cập nhật 1-click trên máy khách",
+    "Bổ sung bộ trích xuất thực thể tiếng Nhật/Hàn/Trung (CJK) dự phòng khi cạn kiệt quota Gemini API",
+    "Chống CAPTCHA Google chủ động (Zero-CAPTCHA Pacing Shield) và sửa lỗi đếm ngược khi xuất CapCut Draft"
   ],
   "download_url": "https://raw.githubusercontent.com/thienhanhmedia7/toolcao-release/main/stock_preview_v6.exe",
   "update_type": "hotfix",

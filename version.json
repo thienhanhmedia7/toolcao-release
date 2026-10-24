@@ -1,10 +1,10 @@
 {
-  "version": "6.2.8",
+  "version": "6.2.9",
   "build_date": "2026-10-24",
   "app_name": "Studio Master AI",
-  "title": "Bản cập nhật v6.2.8 — nâng cấp tốc độ tạo video x3 lần",
+  "title": "Bản cập nhật v6.2.9 — tăng tốc độ x3",
   "changelog": [
-    "nâng cấp tốc độ tạo video x3 lần"
+    "tăng tốc độ x3"
   ],
   "download_url": "https://raw.githubusercontent.com/thienhanhmedia7/toolcao-release/main/stock_preview_v6.exe",
   "update_type": "hotfix",

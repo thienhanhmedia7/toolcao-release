@@ -1,12 +1,10 @@
 {
-  "version": "6.2.12",
-  "build_date": "2026-10-24",
+  "version": "6.2.13",
+  "build_date": "2026-10-25",
   "app_name": "Studio Master AI",
-  "title": "Bản cập nhật v6.2.12 — Sửa triệt để lỗi _PYI_APPLICATION_HOME_DIR khi cập nhật 1-click & tự động nâng cấp Python 3.14",
+  "title": "Bản cập nhật v6.2.13 — Tối ưu tốc độ Mode Ghép Nối Offline, nâng cấp Whisper large-v3-turbo và sửa lỗi hệ thống",
   "changelog": [
-    "Cách ly biến môi trường Bootloader (_P14_), sửa triệt để lỗi _PYI_APPLICATION_HOME_DIR khi tự khởi động lại sau cập nhật",
-    "Tự động giải nén và nâng cấp thư viện hệ thống Python 3.14 ngay trong lần chạy đầu tiên trên máy khách",
-    "Bổ sung bộ trích xuất thực thể tiếng Nhật/Hàn/Trung (CJK) dự phòng và chống CAPTCHA Google chủ động"
+    "Tối ưu tốc độ Mode Ghép Nối Offline, nâng cấp Whisper large-v3-turbo và sửa lỗi hệ thống"
   ],
   "download_url": "https://raw.githubusercontent.com/thienhanhmedia7/toolcao-release/main/stock_preview_v6.exe",
   "update_type": "hotfix",

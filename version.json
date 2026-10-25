@@ -1,12 +1,10 @@
 {
-  "version": "6.2.23",
+  "version": "6.2.24",
   "build_date": "2026-10-25",
   "app_name": "Studio Master AI",
-  "title": "Bản cập nhật v6.2.23 — Sửa triệt để cả 5 chế độ Nhịp cảnh video (Tự nhiên, Đúng từng câu, Nhanh, Chậm, Cung kịch bản); Chuẩn hóa tách/ghép câu ngữ pháp đa ngôn ngữ (Việt, Anh, Nhật, Hàn, Trung); Khóa AI không gộp ngược cảnh đã tách",
+  "title": "Bản cập nhật v6.2.24 — Tối ưu tốc độ Mode Ghép Nối Offline, nâng cấp Whisper large-v3-turbo và sửa lỗi hệ thống",
   "changelog": [
-    "Sửa triệt để cả 5 chế độ Nhịp cảnh video (Tự nhiên, Đúng từng câu, Nhanh, Chậm, Cung kịch bản)",
-    "Chuẩn hóa tách/ghép câu ngữ pháp đa ngôn ngữ (Việt, Anh, Nhật, Hàn, Trung)",
-    "Khóa AI không gộp ngược cảnh đã tách"
+    "Tối ưu tốc độ Mode Ghép Nối Offline, nâng cấp Whisper large-v3-turbo và sửa lỗi hệ thống"
   ],
   "download_url": "https://raw.githubusercontent.com/thienhanhmedia7/toolcao-release/main/stock_preview_v6.exe",
   "update_type": "hotfix",

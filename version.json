@@ -1,12 +1,11 @@
 {
-  "version": "6.2.20",
+  "version": "6.2.21",
   "build_date": "2026-10-25",
   "app_name": "Studio Master AI",
-  "title": "Bản cập nhật v6.2.20 — Nâng cấp AI Tin tức & Trận đấu đêm qua: tự động suy luận mốc thời gian thực (đêm qua/rạng sáng nay/hôm qua); gắn năm & ngày vào từ khóa tìm kiếm; lọc ưu tiên ảnh/video mới nhất (7 ngày/30 ngày) trên Google, Báo chí, DuckDuckGo, YouTube và loại bỏ tư liệu lưu trữ cũ",
+  "title": "Bản cập nhật v6.2.21 — Sửa triệt để chế độ 'Đúng từng câu — không ghép/tách': giữ chuẩn 1 câu = 1 cảnh (không tách nhầm dấu phẩy/nhịp thở Whisper ASR, số thứ tự 1..100, từ viết tắt TP./TS./Mr.); bỏ gọi AI gom cảnh thừa giúp tăng tốc tìm ảnh/video",
   "changelog": [
-    "Nâng cấp AI Tin tức & Trận đấu đêm qua: tự động suy luận mốc thời gian thực (đêm qua/rạng sáng nay/hôm qua)",
-    "gắn năm & ngày vào từ khóa tìm kiếm",
-    "lọc ưu tiên ảnh/video mới nhất (7 ngày/30 ngày) trên Google, Báo chí, DuckDuckGo, YouTube và loại bỏ tư liệu lưu trữ cũ"
+    "Sửa triệt để chế độ 'Đúng từng câu — không ghép/tách': giữ chuẩn 1 câu = 1 cảnh (không tách nhầm dấu phẩy/nhịp thở Whisper ASR, số thứ tự 1..100, từ viết tắt TP./TS./Mr.)",
+    "bỏ gọi AI gom cảnh thừa giúp tăng tốc tìm ảnh/video"
   ],
   "download_url": "https://raw.githubusercontent.com/thienhanhmedia7/toolcao-release/main/stock_preview_v6.exe",
   "update_type": "hotfix",

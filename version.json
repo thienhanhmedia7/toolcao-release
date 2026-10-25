@@ -1,12 +1,10 @@
 {
-  "version": "6.2.14",
+  "version": "6.2.15",
   "build_date": "2026-10-25",
   "app_name": "Studio Master AI",
-  "title": "Bản cập nhật v6.2.14 — Khắc phục hoàn toàn lỗi Whisper runtime và tối ưu giao diện",
+  "title": "Bản cập nhật v6.2.15 — T?ch h?p thanh Title Bar chu?n CapCut Desktop, chuy?n n?t C?p nh?t v? ??i Theme l?n thanh ti?u ??",
   "changelog": [
-    "Khắc phục hoàn toàn lỗi Whisper runtime độc lập (phục hồi đầy đủ C-extensions numpy/ctranslate2)",
-    "Thêm cơ chế bảo vệ loại trừ vĩnh viễn whisper_runtime và whisper_helper khi dọn dẹp môi trường",
-    "Tối ưu giao diện cài đặt đồng bộ chuẩn CapCut"
+    "T?ch h?p thanh Title Bar chu?n CapCut Desktop, chuy?n n?t C?p nh?t v? ??i Theme l?n thanh ti?u ??"
   ],
   "download_url": "https://raw.githubusercontent.com/thienhanhmedia7/toolcao-release/main/stock_preview_v6.exe",
   "update_type": "hotfix",

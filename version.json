@@ -1,10 +1,10 @@
 {
-  "version": "6.2.16",
+  "version": "6.2.17",
   "build_date": "2026-10-25",
   "app_name": "Studio Master AI",
-  "title": "Bản cập nhật v6.2.16 — Dua 2 tab Kiem Tra Scene (QC) va Dao Dien AI len Header Bar dong bo voi API Key",
+  "title": "Bản cập nhật v6.2.17 — Sua triet de loi nativeEvent access violation giup mo app on dinh tren Windows",
   "changelog": [
-    "Dua 2 tab Kiem Tra Scene (QC) va Dao Dien AI len Header Bar dong bo voi API Key"
+    "Sua triet de loi nativeEvent access violation giup mo app on dinh tren Windows"
   ],
   "download_url": "https://raw.githubusercontent.com/thienhanhmedia7/toolcao-release/main/stock_preview_v6.exe",
   "update_type": "hotfix",

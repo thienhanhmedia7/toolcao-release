@@ -1,8 +1,8 @@
 {
-  "version": "6.2.22",
+  "version": "6.2.23",
   "build_date": "2026-10-25",
   "app_name": "Studio Master AI",
-  "title": "Bản cập nhật v6.2.22 — Sửa triệt để cả 5 chế độ Nhịp cảnh video (Tự nhiên, Đúng từng câu, Nhanh, Chậm, Cung kịch bản); Chuẩn hóa tách/ghép câu ngữ pháp đa ngôn ngữ (Việt, Anh, Nhật, Hàn, Trung); Khóa AI không gộp ngược cảnh đã tách",
+  "title": "Bản cập nhật v6.2.23 — Sửa triệt để cả 5 chế độ Nhịp cảnh video (Tự nhiên, Đúng từng câu, Nhanh, Chậm, Cung kịch bản); Chuẩn hóa tách/ghép câu ngữ pháp đa ngôn ngữ (Việt, Anh, Nhật, Hàn, Trung); Khóa AI không gộp ngược cảnh đã tách",
   "changelog": [
     "Sửa triệt để cả 5 chế độ Nhịp cảnh video (Tự nhiên, Đúng từng câu, Nhanh, Chậm, Cung kịch bản)",
     "Chuẩn hóa tách/ghép câu ngữ pháp đa ngôn ngữ (Việt, Anh, Nhật, Hàn, Trung)",

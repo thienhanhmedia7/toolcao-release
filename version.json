@@ -1,11 +1,12 @@
 {
-  "version": "6.2.19",
+  "version": "6.2.20",
   "build_date": "2026-10-25",
   "app_name": "Studio Master AI",
-  "title": "Bản cập nhật v6.2.19 — Ch?n tri?t ?? ?nh d?nh n?t Play/Pause tam gi?c tr?nh ph?t video; b? l?c ch?ng ?nh m?/ph?ng ??i ?? ph?n gi?i th?p chu?n HD v? ch?n poster video nh?ng",
+  "title": "Bản cập nhật v6.2.20 — Nâng cấp AI Tin tức & Trận đấu đêm qua: tự động suy luận mốc thời gian thực (đêm qua/rạng sáng nay/hôm qua); gắn năm & ngày vào từ khóa tìm kiếm; lọc ưu tiên ảnh/video mới nhất (7 ngày/30 ngày) trên Google, Báo chí, DuckDuckGo, YouTube và loại bỏ tư liệu lưu trữ cũ",
   "changelog": [
-    "Ch?n tri?t ?? ?nh d?nh n?t Play/Pause tam gi?c tr?nh ph?t video",
-    "b? l?c ch?ng ?nh m?/ph?ng ??i ?? ph?n gi?i th?p chu?n HD v? ch?n poster video nh?ng"
+    "Nâng cấp AI Tin tức & Trận đấu đêm qua: tự động suy luận mốc thời gian thực (đêm qua/rạng sáng nay/hôm qua)",
+    "gắn năm & ngày vào từ khóa tìm kiếm",
+    "lọc ưu tiên ảnh/video mới nhất (7 ngày/30 ngày) trên Google, Báo chí, DuckDuckGo, YouTube và loại bỏ tư liệu lưu trữ cũ"
   ],
   "download_url": "https://raw.githubusercontent.com/thienhanhmedia7/toolcao-release/main/stock_preview_v6.exe",
   "update_type": "hotfix",

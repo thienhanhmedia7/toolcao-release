@@ -1,10 +1,12 @@
 {
-  "version": "6.2.17",
+  "version": "6.2.18",
   "build_date": "2026-10-25",
   "app_name": "Studio Master AI",
-  "title": "Bản cập nhật v6.2.17 — Sua triet de loi nativeEvent access violation giup mo app on dinh tren Windows",
+  "title": "Bản cập nhật v6.2.18 — Sửa chuyển đổi chế độ Sáng/Tối mượt mà tức thì 1-click; Tinh gọn nút Sáng/Tối trên Title Bar chỉ giữ icon vector sắc nét; Đồng bộ 100% Light Mode sạch đẹp không viền đen",
   "changelog": [
-    "Sua triet de loi nativeEvent access violation giup mo app on dinh tren Windows"
+    "Sửa chuyển đổi chế độ Sáng/Tối mượt mà tức thì 1-click",
+    "Tinh gọn nút Sáng/Tối trên Title Bar chỉ giữ icon vector sắc nét",
+    "Đồng bộ 100% Light Mode sạch đẹp không viền đen"
   ],
   "download_url": "https://raw.githubusercontent.com/thienhanhmedia7/toolcao-release/main/stock_preview_v6.exe",
   "update_type": "hotfix",

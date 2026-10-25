@@ -1,10 +1,10 @@
 {
-  "version": "6.2.15",
+  "version": "6.2.16",
   "build_date": "2026-10-25",
   "app_name": "Studio Master AI",
-  "title": "Bản cập nhật v6.2.15 — T?ch h?p thanh Title Bar chu?n CapCut Desktop, chuy?n n?t C?p nh?t v? ??i Theme l?n thanh ti?u ??",
+  "title": "Bản cập nhật v6.2.16 — Dua 2 tab Kiem Tra Scene (QC) va Dao Dien AI len Header Bar dong bo voi API Key",
   "changelog": [
-    "T?ch h?p thanh Title Bar chu?n CapCut Desktop, chuy?n n?t C?p nh?t v? ??i Theme l?n thanh ti?u ??"
+    "Dua 2 tab Kiem Tra Scene (QC) va Dao Dien AI len Header Bar dong bo voi API Key"
   ],
   "download_url": "https://raw.githubusercontent.com/thienhanhmedia7/toolcao-release/main/stock_preview_v6.exe",
   "update_type": "hotfix",

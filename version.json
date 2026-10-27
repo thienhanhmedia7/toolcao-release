@@ -1,8 +1,8 @@
 {
-  "version": "6.2.29",
+  "version": "6.2.30",
   "build_date": "2026-10-27",
   "app_name": "Studio Master AI",
-  "title": "Bản cập nhật v6.2.29 — Tối ưu tốc độ Mode Ghép Nối Offline, nâng cấp Whisper large-v3-turbo và sửa lỗi hệ thống",
+  "title": "Bản cập nhật v6.2.30 — Tối ưu tốc độ Mode Ghép Nối Offline, nâng cấp Whisper large-v3-turbo và sửa lỗi hệ thống",
   "changelog": [
     "Tối ưu tốc độ Mode Ghép Nối Offline, nâng cấp Whisper large-v3-turbo và sửa lỗi hệ thống"
   ],

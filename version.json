@@ -1,13 +1,15 @@
 {
-  "version": "6.2.44",
+  "version": "6.2.45",
   "build_date": "2026-10-29",
   "app_name": "Studio Master AI",
-  "title": "Bản cập nhật v6.2.44 — Khóa cứng 0% lặp lại ảnh trên toàn tiến trình & liên dự án (tự thu hoạch ảnh mới thay vì ghép lại ảnh đã chọn)",
+  "title": "Bản cập nhật v6.2.45 — Sửa triệt để méo ảnh xoay EXIF (Mbappé) & khóa cứng tỷ lệ khung 16:9/9:16; Cắt sạch 100% dải viền đen đáy hệ màu truyền hình BT.709 & dải chú thích báo chí Hàn Quốc; Tăng tốc gấp đôi khâu bù ảnh thiếu (tận dụng kho ảnh sạch cục bộ <0.1s) & xóa bỏ hoàn toàn màn hình trống xanh đen trên CapCut; Tự động đóng gói toàn bộ media vào Resources/local_media của dự án CapCut chống lỗi Phương tiện bị mất (Media Not Found)",
   "changelog": [
-    "Khóa cứng 0% lặp lại ảnh trên toàn tiến trình & liên dự án (tự thu hoạch ảnh mới thay vì ghép lại ảnh đã chọn)",
-    "Triệt tiêu 100% viền đen lệch đáy và viền đen khi phóng nhỏ (Zoom Out) kèm chuyển cảnh kéo lùi"
+    "Sửa triệt để méo ảnh xoay EXIF (Mbappé) & khóa cứng tỷ lệ khung 16:9/9:16",
+    "Cắt sạch 100% dải viền đen đáy hệ màu truyền hình BT.709 & dải chú thích báo chí Hàn Quốc",
+    "Tăng tốc gấp đôi khâu bù ảnh thiếu (tận dụng kho ảnh sạch cục bộ <0.1s) & xóa bỏ hoàn toàn màn hình trống xanh đen trên CapCut",
+    "Tự động đóng gói toàn bộ media vào Resources/local_media của dự án CapCut chống lỗi Phương tiện bị mất (Media Not Found)"
   ],
-  "download_url": "https://github.com/thienhanhmedia7/toolcao-release/releases/download/v6.2.44/stock_preview_v6.exe",
+  "download_url": "https://github.com/thienhanhmedia7/toolcao-release/releases/download/v6.2.45/stock_preview_v6.exe",
   "update_type": "hotfix",
   "min_version": "5.0.0"
 }

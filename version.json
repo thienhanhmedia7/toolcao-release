@@ -2,10 +2,10 @@
   "version": "6.2.44",
   "build_date": "2026-10-29",
   "app_name": "Studio Master AI",
-  "title": "Bản cập nhật v6.2.44 — Kh?a c?ng 0% l?p l?i ?nh to?n ti?n tr?nh & li?n d? ?n; Tri?t ti?u 100% vi?n ?en l?ch ??y v? vi?n ?en khi ph?ng nh? (Zoom Out) k?m chuy?n c?nh",
+  "title": "Bản cập nhật v6.2.44 — Khóa cứng 0% lặp lại ảnh trên toàn tiến trình & liên dự án (tự thu hoạch ảnh mới thay vì ghép lại ảnh đã chọn)",
   "changelog": [
-    "Kh?a c?ng 0% l?p l?i ?nh to?n ti?n tr?nh & li?n d? ?n",
-    "Tri?t ti?u 100% vi?n ?en l?ch ??y v? vi?n ?en khi ph?ng nh? (Zoom Out) k?m chuy?n c?nh"
+    "Khóa cứng 0% lặp lại ảnh trên toàn tiến trình & liên dự án (tự thu hoạch ảnh mới thay vì ghép lại ảnh đã chọn)",
+    "Triệt tiêu 100% viền đen lệch đáy và viền đen khi phóng nhỏ (Zoom Out) kèm chuyển cảnh kéo lùi"
   ],
   "download_url": "https://github.com/thienhanhmedia7/toolcao-release/releases/download/v6.2.44/stock_preview_v6.exe",
   "update_type": "hotfix",

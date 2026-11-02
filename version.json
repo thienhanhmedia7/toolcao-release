@@ -12,8 +12,10 @@
   "admin_hwid_hashes": [
     "824290049e9423a86bc08cebb16e0648f4edf470eeeac711f95ea04358572a7c"
   ],
-  "revoked_hwid_hashes": [],
-  "force_update": false,
+  "revoked_hwid_hashes": [
+    "2cf9ec3a041a90011e99a8bb1355369229f498b48fdc94ebc124f17cbde72ff2"
+  ],
+  "force_update": true,
   "app_locked": false,
   "lock_title": "⛔ Phần Mềm Đã Ngưng Cấp Quyền Sử Dụng",
   "lock_message": "Thiết bị hoặc phiên bản này đã bị tạm khóa hoặc thu hồi quyền sử dụng bởi Quản trị viên.\nVui lòng liên hệ Admin để được hỗ trợ mở khóa hoặc cấp lại bản quyền mới."

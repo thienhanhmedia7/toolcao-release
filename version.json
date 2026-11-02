@@ -1,22 +1,24 @@
 {
-  "version": "6.2.48",
-  "build_date": "2026-10-29",
+  "version": "6.2.49",
+  "build_date": "2026-11-02",
   "app_name": "Studio Master AI",
-  "title": "Bản cập nhật v6.2.48 — Tối ưu hóa hiệu năng, bảo mật mã máy nhị phân C/C++ và cập nhật tính năng mới",
+  "title": "Bản cập nhật v6.2.49 — Sửa lỗi phụ đề tiếng Nhật tràn khung dưới",
   "changelog": [
-    "Tối ưu hóa hiệu năng, bảo mật mã máy nhị phân C/C++ và cập nhật tính năng mới"
+    "Sửa lỗi phụ đề tiếng Nhật tràn khung dưới",
+    "Chuẩn hóa căn khung theo đúng kích thước ảnh đầu tiên (không crop méo)",
+    "Tối ưu tốc độ xuất nháp CapCut"
   ],
-  "download_url": "https://github.com/thienhanhmedia7/toolcao-release/releases/download/v6.2.48/stock_preview_v6.exe",
+  "download_url": "https://github.com/thienhanhmedia7/toolcao-release/releases/download/v6.2.49/stock_preview_v6.exe",
   "update_type": "hotfix",
-  "min_version": "5.0.0",
-  "admin_hwid_hashes": [
-    "824290049e9423a86bc08cebb16e0648f4edf470eeeac711f95ea04358572a7c"
-  ],
+  "min_version": "6.2.49",
+  "force_update": true,
+  "app_locked": true,
   "revoked_hwid_hashes": [
     "2cf9ec3a041a90011e99a8bb1355369229f498b48fdc94ebc124f17cbde72ff2"
   ],
-  "force_update": true,
-  "app_locked": false,
+  "admin_hwid_hashes": [
+    "824290049e9423a86bc08cebb16e0648f4edf470eeeac711f95ea04358572a7c"
+  ],
   "lock_title": "⛔ Phần Mềm Đã Ngưng Cấp Quyền Sử Dụng",
   "lock_message": "Thiết bị hoặc phiên bản này đã bị tạm khóa hoặc thu hồi quyền sử dụng bởi Quản trị viên.\nVui lòng liên hệ Admin để được hỗ trợ mở khóa hoặc cấp lại bản quyền mới."
 }
